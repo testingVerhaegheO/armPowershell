@@ -4,7 +4,7 @@
 #Install-Module -Name Az -AllowClobber
 #Import-Module -Name Az
 
-#Connect-AzAccount
+Connect-AzAccount
 
 $starttime= get-date
 
